@@ -1,0 +1,69 @@
+.face {
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+    width: 500px;
+    height: 700x;
+
+}
+
+.Nazvanie {
+    position: absolute;
+    left: 820px;
+    font-size: 50px;
+    color: white;
+}
+
+
+.delo {
+    position: absolute;
+    top: 710px;
+    left: 1000px;
+    font-size: 50px;
+    background-color: red;
+    width: 500px;
+    color: black;
+}
+* {
+    background-color: rgb(7, 3, 3);
+}
+
+
+.ssl {
+    color: rgb(253, 0, 0);
+}
+
+
+.knopka_1 {
+    color: #000000;
+    background-color: gray;
+    position: absolute;
+    top: 818px;
+    left: 1125px;
+    font-size: 20px;
+}
+
+#img_1 {
+    position: absolute;
+    top: 200px;
+}
+
+#img_2 {
+    position: absolute;
+    top: 200px;
+    right: 100px;
+}
+
+#img_3 {
+    position: absolute;
+    top: 800px;
+    height: 500px;
+    width: 500px;
+}
+
+#img_4 {
+    position: absolute;
+    top: 800px;
+    right: 100px;
+
+}
